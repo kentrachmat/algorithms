@@ -93,8 +93,7 @@ phi5 = [[-encode(i1,j1,k),-encode(i2,j2,k)]
 # encode(i,j,k)
 # i represent the vertical line - 1
 # j represent the horizontal line - 1
-# j represent the value on a spesifique position - 1
-
+# j represent the value on a specific position - 1
 phi6 =[[encode(0,4,1)],[encode(0,7,0)],[encode(0,8,6)],
        [encode(1,1,2)],[encode(1,5,6)],[encode(1,8,7)],
        [encode(2,4,8)],[encode(2,6,5)],

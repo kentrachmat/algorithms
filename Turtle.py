@@ -97,7 +97,7 @@ def Fractales(l1,l2,n,a):
     return dessiner(s,l,a)
 
 # Create a cool modified square
-# Fractales(['F', '-', '-', 'F', '-', '-', 'F', '-', '-'],['F', '+', 'F', '-', 'F', '-', 'F', '+', 'F'],4,90)
+Fractales(['F', '-', '-', 'F', '-', '-', 'F', '-', '-'],['F', '+', 'F', '-', 'F', '-', 'F', '+', 'F'],4,90)
 
 def deriver_sur_place (l1,l2):
     """
